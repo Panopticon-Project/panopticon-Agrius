@@ -7,3 +7,5 @@ https://www.sentinelone.com/labs/new-version-of-apostle-ransomware-reemerges-in-
 https://www.welivesecurity.com/2022/12/07/fantasy-new-agrius-wiper-supply-chain-attack/
 
 https://therecord.media/iranian-hackers-accused-of-targeting-diamond-industry-with-wiper-malware/
+
+https://assets.sentinelone.com/sentinellabs/evol-agrius
